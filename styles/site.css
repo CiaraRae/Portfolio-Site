@@ -102,6 +102,9 @@ footer {
     bottom: 0;
     padding-bottom: 5px;
 }
+footer i {
+    color: white;
+}
 .content {
     padding-left: 20px;
     padding-right: 20px;
