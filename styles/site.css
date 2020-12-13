@@ -1,138 +1,36 @@
-/* Header and Nav */
-header {
-    min-height: 200px;
-    max-height: 200px;
+header .background-image {
     background-image: url("../images/Header.png");
     background-position: center;
 }
-nav {
+
+.bg-maroon {
     background-color: #591124;
-    color: white;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
-nav h1 {
-    color: white;
-    margin: 0;
+
+.bg-lightblue {
+    background-color: #D0E2F2;
 }
-.flex-container-nav {
-    display: flex;
-    justify-content: space-between;
+
+.bg-pink {
+    background-color: #A6034F !important;
 }
-.flex-item-nav {
-    display: flex;
-    flex-basis: 25%;
-    padding: 10px;
-    text-align: center;
-    align-items: center;
+
+.text-stroke-maroon {
+    -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #591124;
 }
-.flex-subitem-nav {
-    flex-basis: 25%;
-    padding: 10px;
-    text-align: center;
-}
-.flex-subitem-nav a {
-    color: white;
-    text-decoration: none;
-    font-weight: 700;
-}
-.brand {
-    height: 130px;
-    padding: 35px;
-}
-/* End of Header and Nav */
-/* Intro Style */
-h1 {
-    color: #591124;
-    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
-    font-weight: 700;
-}
-h2 {
-    color:#591124;  
-}
-body {
-    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
-    padding: 0px;
-    margin: 0px;
-}
-/* End of Intro Style */
-/* Specialties Image Styles */
-.web-design {
-    width: 70%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.writing {
-    width: 80%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.digital-art {
-    width: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.photography {
-    width: 80%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-a:hover {
-    color: #A6034F;
-}
-a:visited {
-    color: white;
-}
-/* End of Specialties Image Styles */
-/* Footer and End Page Styles */
-.profile-image {
-    width: 100%;
-}
-footer {
+
+.btn-primary {
     background-color: #591124;
-    color: white;
-    width: 100%;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    padding-bottom: 5px;
+    border-color:  #A6034F;
 }
-footer i, footer a {
-    color: white;
+
+.btn-primary:hover {
+    background-color: #A6034F;
+    border-color:  #A6034F;
 }
-.content {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-bottom: 100px;
-}
-/* End of Footer and End Page Styles */
-/* Flex Container Styles */
-.flex-container {
-    display: flex; 
-}
-.flex-item-25 {
-    flex-basis: 25%;
-    padding: 10px;
-    text-align: center;
-}
-.flex-item-30 {
-    flex-basis: 30%;
-    padding: 10px;
-    text-align: left;
-}
-.flex-item-15 {
-    flex-basis: 15%;
-    padding: 10px;
-}
-.fab {
-    font-size: 30px;
-    padding: 5px;
-}
-.maroon {
-    color:#591124;
+
+.btn-primary:focus, .btn-primary:active {
+    background-color: #A6034F;
+    border-color:  #A6034F;
 }

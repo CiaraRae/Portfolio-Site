@@ -10,82 +10,206 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Quicksand:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="styles/site.css">
     <script src="https://kit.fontawesome.com/58dce5569c.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="styles/site.css">
 </head>
 
 <body>
-    <header>
-        <img class="brand" src="images/CR Creative Logo_white.png" alt="Ciara Rae Creative Logo"
-            title="Ciara Rae Creative" />
-    </header>
-    <nav class="flex-container-nav">
-        <div class="flex-item-nav">
-            <h1>Ciara Rae Creative</h1>
-        </div>
-        <div class="flex-item-nav">
-                <div class="flex-subitem-nav"><a href="about.asp">About</a></div>
-                <div class="flex-subitem-nav"><a href="specialties.asp">Specialties</a></div>
-                <div class="flex-subitem-nav"><a href="contact.asp">Contact</a></div>
-        </div>
-    </nav>
-    <div class="content">
-        <section>
-            <h3>MPLS-based writer and designer</h3>
-            <p>Ciara Rae Creative brings new life to ordinary objects through <b>visionary</b> and
-                <b>accessible</b> design.</p>
-            <br>
-            <h2>Specialties:</h2>
-            <div class="flex-container">
-                <div class="flex-item-25">
-                    <h3>Strategic Website Planning</h3>
-                    <img class="web-design" src="images/WebDesign.png" alt="Web design portfolio image preview"
-                        title="Web Design Example" />
+    <header class="bg-maroon pb-5 mb-5">
+        <div class="container-fluid background-image">
+            <div class="row">
+                <div class="col-12 d-flex justify-content-center pt-5 pb-5 text-white">
+                    <h1 class="text-stroke-maroon fw-bold">Digital Journey & Portfolio</h1>
                 </div>
-                <div class="flex-item-25">
-                    <h3>Creative & Technical Writing</h3>
-                    <img class="writing" src="images/Writing.png"
-                        alt="Creative and Technical Writing portfolio image preview" title="Writing Example" />
-                </div>
-                <div class="flex-item-25">
-                    <h3>Digital Illustrations</h3>
-                    <img class="digital-art" src="images/DigitalArt.png"
-                        alt="Digital Illustration portfolio image preview" title="Digital Illustration Example" />
-                </div>
-                <div class="flex-item-25">
-                    <h3>Photography & Photo Editing</h3>
-                    <img class="photography" src="images/Photography.jpg" alt="Photography portfolio image preview"
-                        title="Photography Example" />
-                </div>
-        </section>
-        <hr />
-        <section id="designer-profile">
-            <h3><span class="maroon">Designer Profile</span> - Ciara Kohlhagen</h3>
-            <div class="flex-container">
-                <div class="flex-item-15">
-                    <img class="profile-image" src="images/profile.jpeg" alt="Ciara Kohlhagen profile photo"
-                        title="Ciara Kohlhagen" />
-                </div>
-                <div class="flex-item-30">
-                    I am a strong believer in intuitive and accessible design. We each deserve to take part in the
-                    virtual
-                    world without any barriers. With experience building marketing and communications campaigns
-                    in higher education, healthcare, and development I work to ensure each aspect, from copy writing to
-                    web
-                    development,
-                    is crafted to meet brand needs and objectives.
+                <div class="col-3 position-fixed end-0" style="z-index: 2000;">
+                    <div class="accordion bg-pink" id="menu">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button bg-pink text-white link-light" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <h3>Projects</h3>
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                data-bs-parent="#menu">
+                                <div class="accordion-body">
+                                    <ul class="nav flex-column">
+                                        <li class="nav-item">
+                                            <a class="nav-link fw-bold link-light" href="./index.html">About</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link link-light" href="./digitallit.html">Digital Literacy Narrative</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link link-light" href="./dita.html">DITA</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link link-light" href="./mkdocs.html">MKDocs</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link link-light" href="./webdesign.html">Web Design</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
-    </div>
-    <footer>
-        <a href="https://www.instagram.com/ciara.kohlhagen/" target="blank"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/ciara-kohlhagen-52760598/" target="blank"><i
-                class="fab fa-linkedin-in"></i></a>
-        <br>
-        crkohlhagen@gmail.com
+        </div>
+    </header>
+    <section>
+        <div class="container ps-5">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row mb-5">
+                        <div class="col-12">
+                            <h2>About</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sodales neque,
+                                at accumsan risus tempus vitae. Proin eget sagittis nisi. Suspendisse commodo, arcu quis
+                                egestas iaculis, dolor erat interdum nunc, et gravida metus magna a massa. Proin luctus
+                                congue tortor, egestas euismod justo tempus nec.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row mb-5">
+                        <div class="col-12">
+                            <h2>Portfolio Projects</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sodales neque,
+                                at accumsan risus tempus vitae. Proin eget sagittis nisi. Suspendisse commodo, arcu quis
+                                egestas iaculis, dolor erat interdum nunc, et gravida metus magna a massa. Proin luctus
+                                congue tortor, egestas euismod justo tempus nec.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-10">
+                            <div class="card mb-3">
+                                <div class="row g-0 d-flex align-items-center">
+                                    <div class="col-md-4">
+                                        <img src="images/Osa.png" alt="..." class="img-fluid">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Digital Literacy Narrative</h5>
+                                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing
+                                                elit. Mauris iaculis sodales neque, at accumsan risus tempus vitae.
+                                                Proin eget sagittis nisi.</p>
+                                            <button type="button" class="btn btn-primary">
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-10">
+                            <div class="card mb-3">
+                                <div class="row g-0 d-flex align-items-center">
+                                    <div class="col-md-4">
+                                        <img src="images/Osa.png" alt="..." class="img-fluid">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">DITA</h5>
+                                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing
+                                                elit. Mauris iaculis sodales neque, at accumsan risus tempus vitae.
+                                                Proin eget sagittis nisi.</p>
+                                            <button type="button" class="btn btn-primary">
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-10">
+                            <div class="card mb-3">
+                                <div class="row g-0 d-flex align-items-center">
+                                    <div class="col-md-4">
+                                        <img src="images/Osa.png" alt="..." class="img-fluid">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">MKDocs</h5>
+                                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing
+                                                elit. Mauris iaculis sodales neque, at accumsan risus tempus vitae.
+                                                Proin eget sagittis nisi.</p>
+                                            <button type="button" class="btn btn-primary">
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-10">
+                            <div class="card mb-3">
+                                <div class="row g-0 d-flex align-items-center">
+                                    <div class="col-md-4">
+                                        <img src="images/Osa.png" alt="..." class="img-fluid">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Web Design</h5>
+                                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing
+                                                elit. Mauris iaculis sodales neque, at accumsan risus tempus vitae.
+                                                Proin eget sagittis nisi.</p>
+                                            <button type="button" class="btn btn-primary">
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                                <i class="fa fa-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="bg-maroon">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center text-white p-3">
+                    <div class="row fs-4">
+                        <div class="col-12">
+                            <a href="https://www.instagram.com/ciara.kohlhagen/" target="blank" class="link-light"><i
+                                    class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/ciara-kohlhagen-52760598/" target="blank" class="link-light"><i
+                                    class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div class="row fs-6">
+                        <div class="col-12">
+                            crkohlhagen@gmail.com
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
 </body>
-
 
 </html>
