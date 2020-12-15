@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/kohl0177/AppData/Local/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/kohl0177/AppData/Local/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/kohl0177/AppData/Local/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/kohl0177/AppData/Local/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ditamap_coffeegrinder.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">DITAMap_CoffeeGrinder</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">DITAMap_CoffeeGrinder</title>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Usage and Features"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d82e14">Usage and Features</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_qsg_w3x_wnb"><resourceid appid="concept_qsg_w3x_wnb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Skerton PRO Features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Thank you for purchasing this HARIO product. Please be sure to read this instruction manual thoroughly in order to use this product correctly. After reading it, store it in a safe place for future reference.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="taskusingthemill"><resourceid appid="taskusingthemill" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Using the Mill</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Ground Size"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d82e35">Ground Size</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="groundsize"><resourceid appid="groundsize" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Adjusting the Size of Coffee Grounds</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="referencecoarseness"><resourceid appid="referencecoarseness" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Choosing the Correct Coarseness</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The recommended coarseness may differ depending on the type of equipment used. *Reminder: Always use fresh coffee beans.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d82e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Usage and Features</ph></title><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_qsg_w3x_wnb" oid="concept_qsg_w3x_wnb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Skerton PRO Features</ph></title>
+    <shortdesc class="- topic/shortdesc ">Thank you for purchasing this HARIO product. Please be sure to read this instruction manual thoroughly in order to use this product correctly. After reading it, store it in a safe place for future reference.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Features
+        <ul class="- topic/ul ">
+            <li class="- topic/li ">Fully washable, with burr parts made from ceramic and metallic parts made from stainless steel.</li>
+            <li class="- topic/li ">Ceramic burr does not have a metallic odor, and will never rust. Sharp, durable blades.</li>
+            <li class="- topic/li ">Fitted with a non-slip cover for stable grinding.</li>
+            <li class="- topic/li ">Attach the lid to use as a storage container for coffee grounds. The mill can also be stacked on the lid for convenient storage in compact spaces.</li>
+        </ul>
+        </p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="taskusingthemill" oid="taskusingthemill" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Using the Mill</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The Skerton PRO's fresh, contemporary design has been updated for easier grind adjustment and performance. Following the steps below will ensure a satisfactory grind to suit your tastes.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Grind a small amount of beans to test and adjust the coarseness of the coffee grounds. (Refer to the 'Choosing the Correct Coarseness' section for more details).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use between 10g to 12g of coffee per cup. Put enough beans for 1 or 2 cups of coffee into the hopper. Putting in too many beans will make the handle difficult to turn, and may cause coffee beans to fall out. Add more coffee beans when the previous beans start to run low.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hold the grinder firmly and rotate the handle clockwise to grind the coffee beans. *Note: Never turn the handle counterclockwise (left), as doing so will damage the burr.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d82e35" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Ground Size</ph></title><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="groundsize" oid="groundsize" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Adjusting the Size of Coffee Grounds</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Small changes in grind size can drastically affect the taste of your brew. Depending on your flavor preference, you will want to adjust its coarseness.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hold the center of the handle firmly and turn the adjustment nut.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Make sure that the handle is attached when turning the grind adjustment nut.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rotate to the right (clockwise) for finer grounds or to the left (counterclockwise) for coarser grounds.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="referencecoarseness" oid="referencecoarseness" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Choosing the Correct Coarseness</ph></title>
+    <shortdesc class="- topic/shortdesc ">The recommended coarseness may differ depending on the type of equipment used. *Reminder: Always use fresh coffee beans.</shortdesc>
+    <refbody class="- topic/body        reference/refbody "> 
+        <table class="- topic/table " frame="all" rowheader="firstcol" id="d31e164">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Coarseness</ph></title>
+            <desc class="- topic/desc ">Equipment used is listed in column 1 followed by ascending coarseness in columns 2-4.</desc>
+            <tgroup class="- topic/tgroup " cols="5">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;11:40" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ReferenceCoarseness.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;12:40" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ReferenceCoarseness.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" xtrc="colspec:3;13:40" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ReferenceCoarseness.dita"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" xtrc="colspec:4;14:40" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ReferenceCoarseness.dita"/>
+                <colspec class="- topic/colspec " colname="col5" colnum="5" xtrc="colspec:5;15:40" xtrf="file:/C:/Users/kohl0177/Desktop/DITA%20Project/ReferenceCoarseness.dita"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Coarseness</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Fine</b>(granulated sugar size)</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Medium-Fine</b>(between granulated and crystallized sugar)</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Medium</b>(between granulated crystallized sugar)</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Coarse</b>(Crystallized sugar size)</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Paper Filter</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">X</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Paperless Filter</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3"/>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="3"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Cloth Filter</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4"/>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="4">X</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Syphon</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">X</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="5">X</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Water Dripper</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">X</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">X</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6"/>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="6"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Coffee Maker</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">X</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="7">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="7"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">French Press</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8"/>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8"/>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="8">X</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="8">X</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic></map>
